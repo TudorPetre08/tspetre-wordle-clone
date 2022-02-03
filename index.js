@@ -1,6 +1,7 @@
 'use strict'
 
 let wordList = [
+    'jokey',
     'which',
     'there',
     'their',
