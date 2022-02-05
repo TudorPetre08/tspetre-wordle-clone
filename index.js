@@ -1,7 +1,7 @@
 'use strict'
 
 let wordList = [
-    'glent'
+    'glent',
     'jokey',
     'which',
     'there',
@@ -11,6 +11,7 @@ let wordList = [
     'these',
     'other',
     'words',
+    'vozhd',
     'could',
     'write',
     'first',
