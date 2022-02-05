@@ -21,6 +21,7 @@ let wordList = [
     'right',
     'think',
     'three',
+    'waqfs',
     'years',
     'place',
     'sound',
