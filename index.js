@@ -12,6 +12,7 @@ let wordList = [
     'other',
     'words',
     'vozhd',
+    'roate',
     'could',
     'write',
     'first',
